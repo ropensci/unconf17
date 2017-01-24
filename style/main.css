@@ -577,6 +577,10 @@ font-weight: 700;
   url("../../images/participants/amelia-mcnamara.jpg") no-repeat;
   background-size: cover; }
 
+.ed-arino .participant-image { background:
+  url("../../images/participants/ed-arino.jpg") no-repeat;
+  background-size: cover; }
+
 
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
