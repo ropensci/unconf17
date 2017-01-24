@@ -1060,3 +1060,9 @@ a.section-jump {
   /* if the user keeps scrolling down, the button is out of focus and becomes less visible */
   opacity: .5;
 }
+
+
+.later-col{
+  margin: 0px;
+  width: 100%;
+}
