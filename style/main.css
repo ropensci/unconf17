@@ -1218,3 +1218,30 @@ a.section-jump {
   font-size: 185%;
   font-weight: bold;
 }
+
+
+
+
+
+
+.wide-title-col {
+  margin-bottom: 4rem; }
+  @media only screen and (min-width: 960px) {
+    .wide-title-col {
+      width: 100%;
+      margin: 0 auto 8rem; } }
+  @media only screen and (min-width: 1100px) {
+    .wide-title-col {
+      width: 100%; } }
+  .wide-title-col h2 {
+    font-size: 3rem;
+    font-weight: 100;
+    margin-bottom: 2rem;
+    line-height: 3rem; }
+    @media only screen and (min-width: 960px) {
+      .wide-title-col h2 {
+        font-size: 4rem;
+        line-height: 4rem;
+        margin-bottom: 2rem; } }
+  .wide-title-col p {
+    margin-bottom: 2rem; }
