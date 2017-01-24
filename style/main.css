@@ -1,3 +1,75 @@
+/*These are all the participants*/
+
+.karthik-ram .participant-image {
+  background: url("../../images/participants/karthik-ram.jpg") no-repeat;
+  background-size: cover; }
+
+.scott-chamberlain .participant-image {
+  background: url("../../images/participants/scott-chamberlain.png") no-repeat;
+  background-size: cover; }
+
+.hadley-wickham .participant-image {
+  background: url("../../images/participants/hadley-wickham.jpg") no-repeat;
+  background-size: cover; }
+
+.rich-fitzjohn .participant-image {
+  background: url("../../images/participants/rich-fitzjohn.jpg") no-repeat;
+  background-size: cover; }
+
+.jenny-bryan .participant-image {
+  background: url("../../images/participants/jenny-bryan.jpg") no-repeat;
+  background-size: cover; }
+
+.jj-allaire .participant-image {
+  background: url("../../images/participants/jj-allaire.png") no-repeat;
+  background-size: cover; }
+
+.jeroen-ooms .participant-image {
+  background: url("../../images/participants/jeroen-ooms.jpg") no-repeat;
+  background-size: cover; }
+
+.craig-citro .participant-image {
+  background: url("../../images/participants/craig-citro.png") no-repeat;
+  background-size: cover; }
+
+.joe-cheng .participant-image {
+  background: url("../../images/participants/joe-cheng.jpg") no-repeat;
+  background-size: cover; }
+
+.jim-hester .participant-image {
+  background: url("../../images/participants/jim-hester.jpg") no-repeat;
+  background-size: cover; }
+
+.bob-rudis .participant-image {
+  background: url("../../images/participants/bob-rudis.png") no-repeat;
+  background-size: cover; }
+
+.noam-ross .participant-image {
+  background: url("../../images/participants/noam-ross.png") no-repeat;
+  background-size: cover; }
+
+.amelia-mcnamara .participant-image { background:
+  url("../../images/participants/amelia-mcnamara.jpg") no-repeat;
+  background-size: cover; }
+
+.ed-arino .participant-image { background:
+  url("../../images/participants/ed-arino.jpg") no-repeat;
+  background-size: cover; }
+
+  .stefan-butland .participant-image { background:
+  url("../../images/participants/stefanie-butland.jpg") no-repeat;
+  background-size: cover; }
+
+
+
+/*To add new participants, create a class like the ones above.
+Use .firstname-lastname
+Drop the image in the participants folder and link to either the png or jpg versions. gifs are also fine*/
+
+
+
+
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -556,76 +628,6 @@ font-weight: 700;
   margin-bottom: 5px;
 }
 /*end applications*/
-
-/*These are all the participants*/
-
-.karthik-ram .participant-image {
-  background: url("../../images/participants/karthik-ram.jpg") no-repeat;
-  background-size: cover; }
-
-.scott-chamberlain .participant-image {
-  background: url("../../images/participants/scott-chamberlain.png") no-repeat;
-  background-size: cover; }
-
-.hadley-wickham .participant-image {
-  background: url("../../images/participants/hadley-wickham.jpg") no-repeat;
-  background-size: cover; }
-
-.rich-fitzjohn .participant-image {
-  background: url("../../images/participants/rich-fitzjohn.jpg") no-repeat;
-  background-size: cover; }
-
-.jenny-bryan .participant-image {
-  background: url("../../images/participants/jenny-bryan.jpg") no-repeat;
-  background-size: cover; }
-
-.jj-allaire .participant-image {
-  background: url("../../images/participants/jj-allaire.png") no-repeat;
-  background-size: cover; }
-
-.jeroen-ooms .participant-image {
-  background: url("../../images/participants/jeroen-ooms.jpg") no-repeat;
-  background-size: cover; }
-
-.craig-citro .participant-image {
-  background: url("../../images/participants/craig-citro.png") no-repeat;
-  background-size: cover; }
-
-.maelle-salmon .participant-image {
-  background: url("../../images/participants/maelle-salmon.jpg") no-repeat;
-  background-size: cover; }
-
-.heidi-seibold .participant-image {
-  background: url("../../images/participants/heidi-seibold.jpg") no-repeat;
-  background-size: cover; }
-
-.joe-cheng .participant-image {
-  background: url("../../images/participants/joe-cheng.jpg") no-repeat;
-  background-size: cover; }
-
-.jim-hester .participant-image {
-  background: url("../../images/participants/jim-hester.jpg") no-repeat;
-  background-size: cover; }
-
-.bob-rudis .participant-image {
-  background: url("../../images/participants/bob-rudis.png") no-repeat;
-  background-size: cover; }
-
-.noam-ross .participant-image {
-  background: url("../../images/participants/noam-ross.png") no-repeat;
-  background-size: cover; }
-
-.amelia-mcnamara .participant-image { background:
-  url("../../images/participants/amelia-mcnamara.jpg") no-repeat;
-  background-size: cover; }
-
-.ed-arino .participant-image { background:
-  url("../../images/participants/ed-arino.jpg") no-repeat;
-  background-size: cover; }
-
-/*To add new participants, create a class like the ones above.
-Use .firstname-lastname
-Drop the image in the participants folder and link to either the png or jpg versions. gifs are also fine*/
 
 
 .setting img {
