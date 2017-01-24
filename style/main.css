@@ -548,6 +548,7 @@ font-weight: 700;
 .participants .further-col{
   margin: 0px;
   width: 100%;
+  margin-top: 4em;
 }
 
 .further-col img {
