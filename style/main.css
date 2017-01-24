@@ -162,7 +162,9 @@ section {
 @media only screen and (min-width: 1100px) {
   .title-col,
   .further-col {
-    float: left; } }
+    float: left; 
+    margin-top: 3rem;
+    } }
 
 .title-col {
   margin-bottom: 4rem; }
@@ -1240,7 +1242,7 @@ a.section-jump {
     font-weight: 130%;
     margin-bottom: 3rem;
     line-height: 3rem; }
-    
+
     @media only screen and (min-width: 960px) {
       .wide-title-col h2 {
         font-size: 4rem;
