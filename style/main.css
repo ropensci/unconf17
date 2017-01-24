@@ -1229,19 +1229,21 @@ a.section-jump {
   @media only screen and (min-width: 960px) {
     .wide-title-col {
       width: 100%;
-      margin: 0 auto 8rem; } }
+      margin: 0 auto 8rem; 
+       margin-bottom: 3rem;} }
   @media only screen and (min-width: 1100px) {
     .wide-title-col {
-      width: 100%; } }
+      width: 100%;
+       margin-bottom: 3rem; } }
   .wide-title-col h2 {
     font-size: 3rem;
     font-weight: 100;
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
     line-height: 3rem; }
     @media only screen and (min-width: 960px) {
       .wide-title-col h2 {
         font-size: 4rem;
         line-height: 4rem;
-        margin-bottom: 2rem; } }
+        margin-bottom: 4rem; } }
   .wide-title-col p {
-    margin-bottom: 2rem; }
+    margin-bottom: 3rem; }
