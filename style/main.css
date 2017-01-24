@@ -697,53 +697,10 @@ font-weight: 700;
   background-size: cover; }
 
 
-.diana-ly .participant-image {
-  background: url("../../images/participants/diana-ly.png") no-repeat;
+ .amelia-mcnamara .participant-image { background:
+  url("../../images/participants/amelia-mcnamara.jpg") no-repeat;
   background-size: cover; }
 
-.elaine-mcvey .participant-image {
-  background: url("../../images/participants/elaine-mcvey.jpg") no-repeat;
-  background-size: cover; }
-
-.thomas-leeper .participant-image {
-  background: url("../../images/participants/thomas-leeper.jpg") no-repeat;
-  background-size: cover; }
-
-  .ricardo-bion .participant-image { background:
-  url("../../images/participants/ricardo-bion.jpg") no-repeat;
-  background-size: cover; }
-
-.sean-kross .participant-image { background:
-  url("../../images/participants/sean-kross.jpg") no-repeat;
-  background-size: cover; }
-
-.melissa-guzman .participant-image { background:
-  url("../../images/participants/melissa-guzman.jpg") no-repeat;
-  background-size: cover; }
-
-.daniel-emaasit .participant-image { background:
-  url("../../images/participants/daniel-emaasit.jpg") no-repeat;
-  background-size: cover; }
-
-.brooke-anderson .participant-image { background:
-  url("../../images/participants/brooke-anderson.jpg") no-repeat;
-  background-size: cover; }
-
-.henrik-bengtsson .participant-image {
-  background: url("../../images/participants/henrik-bengtsson.jpg") no-repeat;
-  background-size: cover; }
-
-.dani-ushizima .participant-image {
-  background: url("../../images/participants/dani-ushizima.jpg") no-repeat;
-  background-size: cover; }
-
-.gabe-becker .participant-image {
-  background: url("../../images/participants/gabe-becker.jpg") no-repeat;
-  background-size: cover; }
-
-.tracy-teal .participant-image { background:
-  url("../../images/participants/tracy-teal.jpg") no-repeat;
-  background-size: cover; }
 
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
