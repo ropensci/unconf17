@@ -1237,9 +1237,10 @@ a.section-jump {
        margin-bottom: 3rem; } }
   .wide-title-col h2 {
     font-size: 3rem;
-    font-weight: 100;
+    font-weight: 130%;
     margin-bottom: 3rem;
     line-height: 3rem; }
+    
     @media only screen and (min-width: 960px) {
       .wide-title-col h2 {
         font-size: 4rem;
