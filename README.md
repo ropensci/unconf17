@@ -16,7 +16,12 @@ For those interested in participating remotely, please email `remote-hacker at r
 
 ## Code of conduct
 
-To ensure a safe, enjoyable, and friendly experience for everyone who participates, we have a [code of conduct](http://unconf16.ropensci.org/coc.html).  This applies to people attending in person or remotely, and for interacting over the [issues](https://github.com/ropensci16/issues).
+To ensure a safe, enjoyable, and friendly experience for everyone who participates, we have a [code of conduct](http://unconf17.ropensci.org/coc.html).  This applies to people attending in person or remotely, and for interacting over the [issues](https://github.com/ropensci17/issues).
 
 ## Support  
-This meeting is made possible by generous support from some lovely people whose logos will appear here shortly.
+This meeting is made possible by generous support from:
+
+- The Helmsley Charitable Trust
+- Microsoft
+- Data Camp
+
