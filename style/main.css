@@ -60,6 +60,10 @@
   url("../../images/participants/stefanie-butland.jpg") no-repeat;
   background-size: cover; }
 
+  .alice-daish .participant-image { background:
+  url("../../images/participants/alice-daish.jpg") no-repeat;
+  background-size: cover; }
+
 
 
 /*To add new participants, create a class like the ones above.
