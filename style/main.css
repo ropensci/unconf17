@@ -64,7 +64,9 @@
   url("../../images/participants/alice-daish.jpg") no-repeat;
   background-size: cover; }
 
-
+.maelle-salmon .participant-image {
+  background: url("../../images/participants/maelle-salmon.jpg") no-repeat;
+  background-size: cover; }
 
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
