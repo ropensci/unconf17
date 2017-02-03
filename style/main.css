@@ -81,6 +81,10 @@
   url("../../images/participants/kevin_ushey.jpg") no-repeat;
   background-size: cover; }
   
+.lori-shephard .participant-image { background:
+  url("../../images/participants/lori-shepherd.jpg") no-repeat;
+  background-size: cover; }
+  
 
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
