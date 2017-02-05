@@ -68,7 +68,6 @@
   background: url("../../images/participants/maelle-salmon.jpg") no-repeat;
   background-size: cover; }
 
-
   .shirin-glander .participant-image { background:
   url("../../images/participants/shirin-glander.jpg") no-repeat;
   background-size: cover; }
@@ -85,11 +84,13 @@
   url("../../images/participants/lori-shepherd.jpg") no-repeat;
   background-size: cover; }
   
-
 .gabor-csardi .participant-image {
   background: url("../../images/participants/gabor-csardi.jpg") no-repeat;
   background-size: cover; }
 
+.craig-citro .participant-image {
+  background: url("../../images/participants/craig-citro.png") no-repeat;
+  background-size: cover; }
 
 
 /*To add new participants, create a class like the ones above.
