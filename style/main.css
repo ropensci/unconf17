@@ -75,15 +75,15 @@
 .claudia-vitolo .participant-image { background:
   url("../../images/participants/claudia-vitolo.jpg") no-repeat;
   background-size: cover; }
-  
+
   .kevin-ushey .participant-image { background:
   url("../../images/participants/kevin_ushey.jpg") no-repeat;
   background-size: cover; }
-  
-.lori-shephard .participant-image { background:
+
+.lori-shepherd .participant-image { background:
   url("../../images/participants/lori-shepherd.jpg") no-repeat;
   background-size: cover; }
-  
+
 .gabor-csardi .participant-image {
   background: url("../../images/participants/gabor-csardi.jpg") no-repeat;
   background-size: cover; }
@@ -265,7 +265,7 @@ section {
 @media only screen and (min-width: 1100px) {
   .title-col,
   .further-col {
-    float: left; 
+    float: left;
     margin-top: 3rem;
     } }
 
@@ -562,7 +562,7 @@ font-weight: 700;
 .participant {
   position: relative;
   padding: 1rem 0 0 0;
-  margin-bottom: 2rem; 
+  margin-bottom: 2rem;
     float: left;
     padding: 0px 10px;
     width: 33%;
@@ -592,7 +592,7 @@ font-weight: 700;
       }
     }
 
-  
+
 .participant-image {
   background: #eee;
   border-radius: 50%;
@@ -1112,7 +1112,7 @@ a.section-jump {
   @media only screen and (min-width: 960px) {
     .wide-title-col {
       width: 100%;
-      margin: 0 auto 8rem; 
+      margin: 0 auto 8rem;
        margin-bottom: 3rem;} }
   @media only screen and (min-width: 1100px) {
     .wide-title-col {
