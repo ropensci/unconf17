@@ -32,6 +32,10 @@
   background: url("../../images/participants/craig-citro.png") no-repeat;
   background-size: cover; }
 
+.gergely-daroczi .participant-image {
+  background: url("../../images/participants/gergely-daroczi.jpg") no-repeat;
+  background-size: cover; }
+
 .joe-cheng .participant-image {
   background: url("../../images/participants/joe-cheng.jpg") no-repeat;
   background-size: cover; }
