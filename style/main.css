@@ -60,11 +60,11 @@
   url("../../images/participants/ed-arino.jpg") no-repeat;
   background-size: cover; }
 
-  .stefanie-butland .participant-image { background:
+.stefanie-butland .participant-image { background:
   url("../../images/participants/stefanie-butland.jpg") no-repeat;
   background-size: cover; }
 
-  .alice-daish .participant-image { background:
+.alice-daish .participant-image { background:
   url("../../images/participants/alice-daish.jpg") no-repeat;
   background-size: cover; }
 
@@ -72,7 +72,7 @@
   background: url("../../images/participants/maelle-salmon.jpg") no-repeat;
   background-size: cover; }
 
-  .shirin-glander .participant-image { background:
+.shirin-glander .participant-image { background:
   url("../../images/participants/shirin-glander.jpg") no-repeat;
   background-size: cover; }
 
@@ -80,7 +80,7 @@
   url("../../images/participants/claudia-vitolo.jpg") no-repeat;
   background-size: cover; }
 
-  .kevin-ushey .participant-image { background:
+.kevin-ushey .participant-image { background:
   url("../../images/participants/kevin_ushey.jpg") no-repeat;
   background-size: cover; }
 
@@ -96,6 +96,9 @@
   background: url("../../images/participants/craig-citro.png") no-repeat;
   background-size: cover; }
 
+.thibault-jombart .participant-image {
+    background: url("../../images/participants/thibaut-jombart.jpg") no-repeat;
+    background-size: cover; }
 
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
