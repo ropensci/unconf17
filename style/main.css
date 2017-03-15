@@ -108,6 +108,13 @@
   background: url("../../images/participants/david-smith.jpg") no-repeat;
   background-size: cover; }
 
+.nicholas-tierney .participant-image {
+  background: url("../../images/participants/nicholas-tierney.jpg") no-repeat;
+  background-size: cover; }
+
+.miles-mcbain .participant-image {
+  background: url("../../images/participants/miles-mcbain.jpg") no-repeat;
+  background-size: cover; }
 
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
