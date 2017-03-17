@@ -120,6 +120,135 @@
   background: url("../../images/participants/kara-woo.jpg") no-repeat;
   background-size: cover; }
   
+.ali-zaidi .participant-image {
+ background: url("../../images/participants/ali-zaidi.jpg") no-repeat;
+ background-size: cover; }
+
+.alicia-schep .participant-image {
+ background: url("../../images/participants/alicia-schep.jpeg") no-repeat;
+ background-size: cover; }
+
+.alison-boyer .participant-image {
+ background: url("../../images/participants/alison-boyer.JPG") no-repeat;
+ background-size: cover; }
+
+.andrew-macdonald .participant-image {
+ background: url("../../images/participants/andrew-macdonald.jpeg") no-repeat;
+ background-size: cover; }
+
+.andy-teucher .participant-image {
+ background: url("../../images/participants/andy-teucher.jpg") no-repeat;
+ background-size: cover; }
+
+.becca-krouse .participant-image {
+ background: url("../../images/participants/becca-krouse.jpg") no-repeat;
+ background-size: cover; }
+
+.ben-best .participant-image {
+ background: url("../../images/participants/ben-best.jpg") no-repeat;
+ background-size: cover; }
+
+.chelsea-ursaner .participant-image {
+ background: url("../../images/participants/chelsea-ursaner.jpg") no-repeat;
+ background-size: cover; }
+
+.christopher-tull .participant-image {
+ background: url("../../images/participants/christopher-tull.jpg") no-repeat;
+ background-size: cover; }
+
+.hannah-fricke .participant-image {
+ background: url("../../images/participants/hannah-fricke.jpg") no-repeat;
+ background-size: cover; }
+
+.hao-zhu .participant-image {
+ background: url("../../images/participants/hao-zhu.jpg") no-repeat;
+ background-size: cover; }
+
+.jakub-nowosad .participant-image {
+ background: url("../../images/participants/jakub-nowosad.jpg") no-repeat;
+ background-size: cover; }
+
+.jasmine-dumas .participant-image {
+ background: url("../../images/participants/jasmine-dumas.png") no-repeat;
+ background-size: cover; }
+
+.jennifer-thompson .participant-image {
+ background: url("../../images/participants/jennifer-thompson.jpeg") no-repeat;
+ background-size: cover; }
+
+.joseph-stachelek .participant-image {
+ background: url("../../images/participants/joseph-stachelek.JPG") no-repeat;
+ background-size: cover; }
+
+.julia-lowndes .participant-image {
+ background: url("../../images/participants/julia-lowndes.jpg") no-repeat;
+ background-size: cover; }
+
+.karl-broman .participant-image {
+ background: url("../../images/participants/karl-broman.jpeg") no-repeat;
+ background-size: cover; }
+
+.katie-scranton .participant-image {
+ background: url("../../images/participants/katie-scranton.jpeg") no-repeat;
+ background-size: cover; }
+
+.kelly-obriant .participant-image {
+ background: url("../../images/participants/kelly-obriant.jpg") no-repeat;
+ background-size: cover; }
+
+.laura-decicco .participant-image {
+ background: url("../../images/participants/laura-decicco.jpg") no-repeat;
+ background-size: cover; }
+
+.lucy-dagostino-mcgowan .participant-image {
+ background: url("../../images/participants/lucy-dagostino-mcgowan.png") no-repeat;
+ background-size: cover; }
+
+.molly-lewis .participant-image {
+ background: url("../../images/participants/molly-lewis.jpg") no-repeat;
+ background-size: cover; }
+
+.nistara-randhawa .participant-image {
+ background: url("../../images/participants/nistara-randhawa.png") no-repeat;
+ background-size: cover; }
+
+.oliver-keyes .participant-image {
+ background: url("../../images/participants/oliver-keyes.jpeg") no-repeat;
+ background-size: cover; }
+
+.place-holder .participant-image {
+ background: url("../../images/participants/place-holder.png") no-repeat;
+ background-size: cover; }
+
+.rachael-tatman .participant-image {
+ background: url("../../images/participants/rachael-tatman.jpg") no-repeat;
+ background-size: cover; }
+
+.ramnath-vaidyanathan .participant-image {
+ background: url("../../images/participants/ramnath-vaidyanathan.png") no-repeat;
+ background-size: cover; }
+
+.reka-solymosi .participant-image {
+ background: url("../../images/participants/reka-solymosi.jpg") no-repeat;
+ background-size: cover; }
+
+.robert-flight .participant-image {
+ background: url("../../images/participants/robert-flight.jpg") no-repeat;
+ background-size: cover; }
+
+.sean-kross .participant-image {
+ background: url("../../images/participants/sean-kross.jpg") no-repeat;
+ background-size: cover; }
+
+.shannon-ellis .participant-image {
+ background: url("../../images/participants/shannon-ellis.jpg") no-repeat;
+ background-size: cover; }
+
+.william-ampeh .participant-image {
+ background: url("../../images/participants/william-ampeh.jpg") no-repeat;
+ background-size: cover; }
+
+
 
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
