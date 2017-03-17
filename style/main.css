@@ -252,6 +252,10 @@
  background: url("../../images/participants/henrik-bengtsson.jpeg") no-repeat;
  background-size: cover; }
 
+.richie-cotton .participant-image {
+ background: url("../../images/participants/henrik-bengtsson.jpeg") no-repeat;
+ background-size: cover; }
+
 
 
 /*To add new participants, create a class like the ones above.
