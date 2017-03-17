@@ -7,7 +7,7 @@ Welcome to the repository for the 2017 unconference.  rOpenSci will be hosting i
 
 * [Participants](http://unconf17.ropensci.org/#participants)  
 * Logistics *link to come*  
-* Please post ideas for projects, discussion topics, and sessions as [issues](https://github.com/ropensci/unconf/issues/) and move to the wiki and/or a new repo within rOpenSci's account as needed.
+* Please post ideas for projects, discussion topics, and sessions as [issues](https://github.com/ropensci/unconf17/issues/) and move to the wiki and/or a new repo within rOpenSci's account as needed.
 
 Event hashtag is `#runconf17`
 
@@ -16,7 +16,7 @@ For those interested in participating remotely, please email `remote-hacker at r
 
 ## Code of conduct
 
-To ensure a safe, enjoyable, and friendly experience for everyone who participates, we have a [code of conduct](http://unconf17.ropensci.org/coc.html).  This applies to people attending in person or remotely, and for interacting over the [issues](https://github.com/ropensci17/issues).
+To ensure a safe, enjoyable, and friendly experience for everyone who participates, we have a [code of conduct](http://unconf17.ropensci.org/coc.html).  This applies to people attending in person or remotely, and for interacting over the [issues](https://github.com/ropensci/unconf17/issues/).
 
 ## Support  
 This meeting is made possible by generous support from:
