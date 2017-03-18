@@ -3,7 +3,7 @@ __(invitation only), May 25 - 26, 2017. Los Angeles__
 
 ![](http://unconf17.ropensci.org/images/LA.png)
 
-Welcome to the repository for the 2017 unconference.  rOpenSci will be hosting its third major developer meeting and open science hackathon in San Francisco in March.
+Welcome to the repository for the 2017 unconference.  rOpenSci will be hosting its fourth major developer meeting and open science hackathon this time in Los Angeles.
 
 * [Participants](http://unconf17.ropensci.org/#participants)  
 * Please post ideas for projects, discussion topics, and sessions as [issues](https://github.com/ropensci/unconf17/issues/) and move to the wiki and/or a new repo within rOpenSci's account as needed.
