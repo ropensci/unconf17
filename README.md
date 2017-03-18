@@ -1,4 +1,4 @@
-# rOpenSci 2017 unconference
+# [rOpenSci 2017 unconference](http://unconf17.ropensci.org/)
 __(invitation only), May 25 - 26, 2017. Los Angeles__
 
 ![](http://i.imgur.com/TTnpSYS.png)
@@ -11,12 +11,9 @@ Welcome to the repository for the 2017 unconference.  rOpenSci will be hosting i
 
 Event hashtag is `#runconf17`
 
-__Remote participants__  
-For those interested in participating remotely, please email `remote-hacker at ropensci.org` for an invite to our chat room (but also just watch the repo for discussion happening in the issues).
-
 ## Code of conduct
 
-To ensure a safe, enjoyable, and friendly experience for everyone who participates, we have a [code of conduct](http://unconf17.ropensci.org/coc.html).  This applies to people attending in person or remotely, and for interacting over the [issues](https://github.com/ropensci/unconf17/issues/).
+To ensure a safe, enjoyable, and friendly experience for everyone who participates, we have a [code of conduct](http://unconf17.ropensci.org/coc).  This applies to people attending in person or remotely, and for interacting over the [issues](https://github.com/ropensci/unconf17/issues/).
 
 ## Support  
 This meeting is made possible by generous support from:
