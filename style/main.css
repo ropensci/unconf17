@@ -119,7 +119,7 @@
 .kara-woo .participant-image {
   background: url("../../images/participants/kara-woo.jpg") no-repeat;
   background-size: cover; }
-  
+
 .ali-zaidi .participant-image {
  background: url("../../images/participants/ali-zaidi.jpg") no-repeat;
  background-size: cover; }
@@ -156,8 +156,8 @@
  background: url("../../images/participants/christopher-tull.jpg") no-repeat;
  background-size: cover; }
 
-.hannah-fricke .participant-image {
- background: url("../../images/participants/hannah-fricke.jpg") no-repeat;
+.hannah-frick .participant-image {
+ background: url("../../images/participants/hannah-frick.jpg") no-repeat;
  background-size: cover; }
 
 .hao-zhu .participant-image {
@@ -253,14 +253,32 @@
  background-size: cover; }
 
 .richie-cotton .participant-image {
- background: url("../../images/participants/henrik-bengtsson.jpeg") no-repeat;
+ background: url("../../images/participants/richie-cotton.jpg") no-repeat;
  background-size: cover; }
 
 .brooke-anderson .participant-image {
  background: url("../../images/participants/brooke-anderson.jpg") no-repeat;
  background-size: cover; }
 
+.sam-firke .participant-image {
+  background: url("../../images/participants/place-holder.png") no-repeat;
+  background-size: cover; }
 
+.samantha-tyner .participant-image {
+  background: url("../../images/participants/place-holder.png") no-repeat;
+  background-size: cover; }
+
+.tim-phan .participant-image {
+  background: url("../../images/participants/place-holder.png") no-repeat;
+  background-size: cover; }
+
+.elin-waring .participant-image {
+  background: url("../../images/participants/place-holder.png") no-repeat;
+  background-size: cover; }
+
+.erin-grand .participant-image {
+  background: url("../../images/participants/place-holder.png") no-repeat;
+  background-size: cover; }
 
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
