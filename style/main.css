@@ -284,6 +284,10 @@
   background: url("../../images/participants/samantha-tyner.jpg") no-repeat;
   background-size: cover; }
 
+.erin-grand .participant-image {
+  background: url("../../images/participants/erin-grand.jpg") no-repeat;
+  background-size: cover; }
+
 
 
 /*To add new participants, create a class like the ones above.
