@@ -19,5 +19,6 @@ This meeting is made possible by generous support from:
 
 - The Helmsley Charitable Trust
 - Microsoft
+- Google
 - Data Camp
 
