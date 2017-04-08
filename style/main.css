@@ -297,6 +297,9 @@
   background: url("../../images/participants/tim-phan.png") no-repeat;
   background-size: cover; }
 
+.michael-quinn .participant-image {
+  background: url("../../images/participants/michael-quinn.jpg") no-repeat;
+  background-size: cover; }
 
 
 /*To add new participants, create a class like the ones above.
