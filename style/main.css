@@ -301,6 +301,9 @@
   background: url("../../images/participants/michael-quinn.jpg") no-repeat;
   background-size: cover; }
 
+.hope-mcleod .participant-image {
+  background: url("../../images/participants/hope-mcleod.jpg") no-repeat;
+  background-size: cover; }
 
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
