@@ -305,6 +305,10 @@
   background: url("../../images/participants/hope-mcleod.jpg") no-repeat;
   background-size: cover; }
 
+.steph-locke .participant-image {
+  background: url("../../images/participants/steph-locke.jpg") no-repeat;
+  background-size: cover; }  
+
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
 Drop the image in the participants folder and link to either the png or jpg versions. gifs are also fine*/
