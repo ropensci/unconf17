@@ -96,7 +96,7 @@
   background: url("../../images/participants/craig-citro.png") no-repeat;
   background-size: cover; }
 
-.thibault-jombart .participant-image {
+.thibaut-jombart .participant-image {
   background: url("../../images/participants/thibaut-jombart.jpg") no-repeat;
   background-size: cover; }
 
@@ -307,7 +307,7 @@
 
 .steph-locke .participant-image {
   background: url("../../images/participants/steph-locke.jpg") no-repeat;
-  background-size: cover; }  
+  background-size: cover; }
 
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
