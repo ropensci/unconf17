@@ -8,6 +8,11 @@
   background: url("../../images/participants/scott-chamberlain.jpg") no-repeat;
   background-size: cover; }
 
+.carl-boettiger .participant-image {
+  background: url("../../images/participants/carl-boettiger.png") no-repeat;
+  background-size: cover; }
+
+
 .hadley-wickham .participant-image {
   background: url("../../images/participants/hadley-wickham.jpg") no-repeat;
   background-size: cover; }
